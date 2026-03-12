@@ -17,4 +17,4 @@
     <td>Tech Lead</td>
     <td>Repository, code quality, architecture</td>
   </tr>
-<\table>
+</table>
