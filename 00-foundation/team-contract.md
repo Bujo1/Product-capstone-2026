@@ -8,13 +8,13 @@
 # Team Members and Roles
 <table>
   <tr>
-    <td>Name<\td>
-    <td>Role<\td>
-    <td>Primary Accountability<\td>
-  <\tr>
+    <td>Name</td>
+    <td>Role</td>
+    <td>Primary Accountability</td>
+  </tr>
   <tr>
-    <td>Nikoloz Bujiashvili<\td>
-    <td>Tech Lead<\td>
-    <td>Repository, code quality, architecture<\td>
-  <\tr>
+    <td>Nikoloz Bujiashvili</td>
+    <td>Tech Lead</td>
+    <td>Repository, code quality, architecture</td>
+  </tr>
 <\table>
